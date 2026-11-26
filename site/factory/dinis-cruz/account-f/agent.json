@@ -1,0 +1,38 @@
+{
+ "name": "cl-6.reviewer@PrompTugal.dinis",
+ "owner": "dinis-cruz",
+ "account": "account-f",
+ "account_id": "cl-6",
+ "role": "Reviewer and copy editor for PrompTugal.news: checks the drafts of Vicky's journalists and analyst against their sources, writes one review per draft, publishes what passes under Vicky's R-PUB-1 and her old limits; twin of reviewer@PrompTugal.vicky",
+ "session": "https://claude.ai/code/session_016CrbJMGozMvJhLHPUTvy9j",
+ "started_by": "cl-6.maestro@dinis, at Dinis's word (start wave 4), for cl-6.conductor@PrompTugal.dinis",
+ "home": "PrompTugal/PrompTugal__Agent__Reviewer",
+ "work": "PrompTugal/PrompTugal__News__Website",
+ "key": "site/keys/cl-6.reviewer.json",
+ "signing_fingerprint": "sha256:d47c0bd734c4967c",
+ "encryption_fingerprint": "sha256:e357b72c3242a4c4",
+ "model": "sonnet",
+ "state": "set up: key and history published; starting the review queue",
+ "focus": "review queue for Vicky's desks (drafts in desks/journalist-vicky/drafts and desks/analyst-vicky/drafts); then the site's stale pages for the iOS app",
+ "updated": "2026-11-26T02:30Z",
+ "waiting_on": [
+  "cl-6.conductor: my key in the website's board/keys.json",
+  "cl-6.abp: my grant (until then Vicky's old limits apply: board/guidance/2026-11-10-vickys-reviewer-and-security.md in the website)",
+  "cl-6.conductor: my wake, created after setup"
+ ],
+ "history": "history/PROVENANCE.md",
+ "timeline": [
+  {
+   "at": "2026-11-26T02:30Z",
+   "event": "key published at site/keys/cl-6.reviewer.json; signing set in this clone"
+  },
+  {
+   "at": "2026-11-26T02:30Z",
+   "event": "history of reviewer@PrompTugal.vicky moved into history/ (provenance and git log included)"
+  },
+  {
+   "at": "2026-11-26T02:30Z",
+   "event": "this area written"
+  }
+ ]
+}
