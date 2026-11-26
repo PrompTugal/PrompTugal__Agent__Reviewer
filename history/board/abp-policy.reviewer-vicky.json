@@ -1,0 +1,21 @@
+{
+ "extract_of": "board/abp/policies.json /external/by_agent/reviewer@PrompTugal.vicky",
+ "policy": {
+  "writes": [
+   "desks/correspondent/front-page.json",
+   "content/articles/**",
+   "articles/**"
+  ],
+  "only_keys": [
+   "lead.standfirst",
+   "lead.developments",
+   "lead.programme",
+   "lead.last_checked",
+   "lead.live"
+  ],
+  "never": "changes any other key of front-page.json (lead.article, lead.why, top, bands and the rest stay correspondent@'s), or writes any other file under desks/correspondent/",
+  "why": "Dinis, in his own session with conductor@web-summit.dinis, 10 November 2026, about 18:25 UTC, on Vicky's request: \"can you give my reviewer@ permission to write only the five S41 lead fields in front-page.json?\" Values prepared by weather@PrompTugal.vicky (desks/weather-vicky/s41-lead.json), verified by reviewer@ before each write; commits For: correspondent@PrompTugal.dinis. For the S41 story only. | 20 Nov 2026: also publishes and updates articles in content/articles/ with their signatures at Vicky's recorded word (commit 8fcfb9ff), reviewed OK by abp@ under Dinis's workflow; the gate and the signature check still apply; abp@ watches each wake.",
+  "granted": "2026-11-10T18:25Z",
+  "granted_by": "dinis (relayed and recorded by conductor@web-summit.dinis; board/guidance/2026-11-10-vickys-reviewer-and-security.md)"
+ }
+}

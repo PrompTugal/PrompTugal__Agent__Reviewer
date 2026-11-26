@@ -1,0 +1,232 @@
+[
+ {
+  "slug": "humans-and-ai-vicky-wang",
+  "title": "Humans and AI",
+  "sub": "Checking what agents say they have done",
+  "fig": "15 + 12 = 27",
+  "line": "reported moved, more found, fixed in all",
+  "src": "Figures: Vicky Wang, as she told it",
+  "alt": "A card: Humans and AI, checking what agents say they have done. 15 articles reported moved, 12 more found, 27 fixed in all, as Vicky Wang told it.",
+  "ttitle": [
+   "Humans",
+   "and AI"
+  ],
+  "tfig": "15+12=27",
+  "tfs": 64
+ },
+ {
+  "slug": "best-number-one-3wx-loule",
+  "title": "Best Number One",
+  "sub": "A free start page from Loulé",
+  "fig": "Free, 10 templates",
+  "line": "300+ sign-ups in the first hours, 3WX says",
+  "src": "Figures: 3WX, via Postal do Algarve",
+  "alt": "A card: Best Number One, a free start page from Loulé. Free, with 10 templates. 300+ sign-ups in the first hours, 3WX says.",
+  "ttitle": [
+   "Best Number",
+   "One"
+  ],
+  "tfig": "Free",
+  "tts": 64
+ },
+ {
+  "slug": "amalia-and-ania-portugal-ai-plans",
+  "title": "AMALIA and ANIA",
+  "sub": "Portugal's AI plan and its own language model",
+  "fig": "32 initiatives",
+  "line": "in four areas: the national AI agenda",
+  "src": "Figures: digital.gov.pt",
+  "alt": "A card: AMALIA and ANIA, Portugal's AI plan and its own language model. 32 initiatives in four areas in the national AI agenda, from digital.gov.pt.",
+  "ttitle": [
+   "AMALIA",
+   "and ANIA"
+  ],
+  "tfig": "32"
+ },
+ {
+  "slug": "portugal-60-mw-computing-capacity",
+  "title": "Portugal's computing power",
+  "sub": "The Government's figures, from the AI Agenda",
+  "fig": "About 60 MW",
+  "line": "in 2025, a 1,000 MW target for 2030",
+  "src": "Figures: National AI Agenda, January 2026",
+  "alt": "A card: Portugal's computing capacity, the Government's figures. About 60 MW in 2025, and a 2030 target of up to about 1,000 MW, from the National AI Agenda.",
+  "ttitle": [
+   "Computing",
+   "power"
+  ],
+  "tfig": "60 MW"
+ },
+ {
+  "slug": "neuraspace-coimbra-raises-15-6-million",
+  "title": "Neuraspace, Coimbra",
+  "sub": "AI that helps satellites avoid collisions",
+  "fig": "€15.6 million",
+  "line": "from three investors and public money",
+  "src": "Figures: AICEP and Tech.eu",
+  "alt": "A card: Neuraspace of Coimbra, AI that helps satellites avoid collisions. 15.6 million euros in new financing, from three investors and Portugal's Recovery and Resilience Plan, as AICEP reports.",
+  "ttitle": [
+   "Neuraspace"
+  ],
+  "tfig": "€15.6m"
+ },
+ {
+  "slug": "center-for-responsible-ai-money-partners-goals",
+  "title": "Center for Responsible AI",
+  "sub": "Portugal's AI programme led by Sword Health",
+  "fig": "€51.49 million",
+  "line": "from the Recovery and Resilience Plan",
+  "src": "Figures: Transparência portal",
+  "alt": "A card: Portugal's Center for Responsible AI. 51.49 million euros from the Recovery and Resilience Plan, as the State's transparency portal shows.",
+  "ttitle": [
+   "Responsible",
+   "AI"
+  ],
+  "tfig": "€51.49m"
+ },
+ {
+  "slug": "ai-physiotherapy-portugal-health-service",
+  "title": "AI physiotherapy at home",
+  "sub": "In Portugal's health service, free to patients",
+  "fig": "97% shorter wait",
+  "line": "to start treatment, a government estimate",
+  "src": "Figures: portugal.gov.pt, June 2026",
+  "alt": "A card: AI physiotherapy at home, in Portugal's national health service, free to patients. A 97% shorter wait to start treatment, a government estimate, from portugal.gov.pt.",
+  "ttitle": [
+   "AI physio",
+   "at home"
+  ],
+  "tfig": "Free"
+ },
+ {
+  "slug": "superhuman-to-buy-rows-porto",
+  "title": "Superhuman and Rows",
+  "sub": "An AI spreadsheet company from Porto",
+  "fig": "2.2 million users",
+  "line": "of Rows since 2017, the company says",
+  "src": "Figures: Rows and Superhuman, Feb 2026",
+  "alt": "A card: Superhuman and Rows, an AI spreadsheet company from Porto. 2.2 million people used Rows, the company says, from the companies' February 2026 posts.",
+  "ttitle": [
+   "Superhuman",
+   "and Rows"
+  ],
+  "tfig": "Porto",
+  "tts": 62
+ },
+ {
+  "slug": "health-service-pays-remote-physiotherapy",
+  "title": "Remote physiotherapy",
+  "sub": "What Portugal's health service pays",
+  "fig": "€200 for 12 months",
+  "line": "per patient treated, by the official terms",
+  "src": "Figures: Diário da República, Feb 2026",
+  "alt": "A card: what Portugal's health service pays for remote physiotherapy. 200 euros for 12 months per patient treated, from the standard terms in the official gazette, February 2026.",
+  "ttitle": [
+   "Remote",
+   "physio"
+  ],
+  "tfig": "€200"
+ },
+ {
+  "slug": "how-the-eu-simplified-the-ai-act",
+  "title": "The AI Act, simplified",
+  "sub": "What the EU's Digital Omnibus on AI changed",
+  "fig": "2 Dec 2027",
+  "line": "when high-risk AI rules apply, the EU says",
+  "src": "Dates: European Parliament and Commission",
+  "alt": "A card: the AI Act, simplified by the EU's Digital Omnibus on AI. High-risk AI rules apply from 2 December 2027, as the European Parliament and Commission say.",
+  "ttitle": [
+   "AI Act"
+  ],
+  "tfig": "2027"
+ },
+ {
+  "slug": "ai-literacy-bias-data-small-firms-ai-act",
+  "title": "The AI Act's small print",
+  "sub": "Literacy, bias data and small firms",
+  "fig": "5 changes",
+  "line": "in the amended text that touch small firms",
+  "src": "Text: Regulation (EU) 2026/1744",
+  "alt": "A card: the AI Act's small print. Five changes in the amended text, on AI literacy, bias data and small firms, from Regulation (EU) 2026/1744.",
+  "ttitle": [
+   "AI Act",
+   "small print"
+  ],
+  "tfig": "5"
+ },
+ {
+  "slug": "ai-use-in-portugal-2026",
+  "title": "AI use in Portugal, 2026",
+  "sub": "People and companies, from INE's surveys",
+  "fig": "54.4% of people",
+  "line": "aged 16 to 74 used AI tools in 2026",
+  "src": "Figures: INE, November 2026",
+  "alt": "A card: AI use in Portugal, 2026. 54.4% of people aged 16 to 74 used AI tools, as INE reports.",
+  "ttitle": [
+   "AI use",
+   "2026"
+  ],
+  "tfig": "54.4%"
+ },
+ {
+  "slug": "crewai-trust-starts-with-human-review",
+  "title": "Trust before autonomy",
+  "sub": "CrewAI on AI agents and human review",
+  "fig": "100% review first",
+  "line": "then less as agents prove it, CrewAI says",
+  "src": "Source: CrewAI's own blog, Jan 2026",
+  "alt": "A card: trust before autonomy, CrewAI's account of AI agents with human review. Start with 100% review, then less as agents prove themselves, CrewAI says, from its own blog.",
+  "ttitle": [
+   "Trust before",
+   "autonomy"
+  ],
+  "tfig": "AI agents",
+  "tts": 56,
+  "tfs": 64
+ },
+ {
+  "slug": "intercom-ai-approves-code-changes",
+  "title": "AI approves code",
+  "sub": "Intercom's rules for its review agent",
+  "fig": "19%+ of changes",
+  "line": "approved with no human reviewer, it says",
+  "src": "Source: Intercom's own blog, Apr 2026",
+  "alt": "A card: AI approves code, Intercom's rules for its review agent. Over 19% of changes approved with no human reviewer, Intercom says, from its own blog.",
+  "ttitle": [
+   "AI approves",
+   "code"
+  ],
+  "tfig": "Intercom",
+  "tfs": 64
+ },
+ {
+  "slug": "spotify-ai-change-outran-checks",
+  "title": "Spotify, AI and quality",
+  "sub": "When change outran its checks",
+  "fig": "8,100 to 17,000",
+  "line": "merged changes a year apart, Spotify says",
+  "src": "Source: Spotify Engineering, Sep 2026",
+  "alt": "A card: Spotify, AI and quality, when change outran its checks. Merged changes went from roughly 8,100 to 17,000 a year apart, Spotify says, from its engineering blog.",
+  "ttitle": [
+   "Change and",
+   "its checks"
+  ],
+  "tfig": "Spotify",
+  "tfs": 64
+ },
+ {
+  "slug": "five-coding-agents-reverts-security-waits",
+  "title": "Five coding agents",
+  "sub": "A study of reverts, security and review",
+  "fig": "37,623 changes",
+  "line": "from five AI agents and a human baseline",
+  "src": "Source: paper on arXiv, Sep 2026",
+  "alt": "A card: five coding agents compared in a study. 37,623 code changes studied, from five AI agents and a human baseline, from the paper's abstract on arXiv.",
+  "ttitle": [
+   "Coding",
+   "agents"
+  ],
+  "tfig": "37,623",
+  "tfs": 72
+ }
+]

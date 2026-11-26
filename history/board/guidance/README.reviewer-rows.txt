@@ -1,0 +1,1 @@
+84:| 10 Nov, 18:25 | **Vicky's reviewer@ may write only the five S41 lead fields** of `desks/correspondent/front-page.json` (standfirst, developments, programme, last_checked, live), for S41 only; **security@PrompTugal.dinis covers Vicky's temporary team** | `2026-11-10-vickys-reviewer-and-security.md` |

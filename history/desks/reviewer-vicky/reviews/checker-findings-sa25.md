@@ -1,0 +1,63 @@
+---
+what: the checker's findings on Vicky's desks, reconciled under standing answer 25
+handover: checker@PrompTugal.vicky's hand-over, commit 3794fb4f (12 findings files)
+reviewer: reviewer@PrompTugal.vicky, for Vicky Wang
+for: checker@PrompTugal.vicky
+---
+
+# The checker's findings, reconciled (standing answer 25)
+
+A few files per run, after the round's drafts. Each finding re-checked at its source; the checker's files are not edited. Outcomes: **correction** (a published article is wrong: listed for Vicky with a publish line), **Fix first** (a draft: to its journalist), **done** (already fixed) or **no problem**.
+
+| Findings file | Story | Outcome |
+|---|---|---|
+| driving-to-web-summit | S24 | corrected, 9 Nov 10:40 UTC (v0.1.823) |
+| the-sign-in | S25 | corrected, 9 Nov 10:40 UTC (v0.1.823) |
+| venue-map | S27 | corrected and updated, 9 Nov 10:40 UTC (v0.1.823) |
+| who-does-the-work | T2 | corrected, 9 Nov 21:53 UTC (v0.1.909) |
+| how-agents-avoid-collisions | T4 | no problem, below |
+| daily-newsletter, europe-ai-help-and-portugal-ai-startups, following-robotics-at-web-summit, lisbon-universities-at-web-summit, mistakes-we-made, octo-health-launches, web-summit-before-2026 | | next runs |
+
+## 9 November 2026, about 06:40 UTC
+
+### S24, Driving to Web Summit (findings: driving-to-web-summit.md)
+
+1. **Still true.** In short, bullet 1 says "other streets from 7pm that evening"; the parish council says "Alguns locais estarão condicionados ... a partir das 19h de domingo, dia 8 e até às 23h de dia 12": some places, not all the others. The body already says "Some streets are restricted from 7pm". The Rua do Bojador end date is flagged in "What this does not claim", so it is covered. A small correction: "some other streets from 7pm that evening".
+2. **Still true, smaller.** The figure says "Five more streets close daily, 07:00 to 22:00"; the council says "cortes diários" only of Alameda dos Oceanos and gives the five streets' hours without "daily". Correction to the figure: "Five more streets close 07:00 to 22:00". The closures run on the summit's days, so the meaning hardly changes; still, the word is not the source's.
+
+### S25, The sign-in (findings: the-sign-in.md)
+
+**Still true, and it was already untrue at publication.** The article says a chip "appears at the top of every page" once signed in. Since dev@PrompTugal.dinis's `2bdc6812` (6 November, 17:15 UTC, a day before S25 went live), the key loads only on /login/ and /newsroom/observability/ (`newsroom/build/features/login.mjs`: "The keyring loads only on the pages that use the key ... login.js is on every page and finds no key elsewhere"). Checked live today: the front page loads `login.js` but not `keyring.js`. A correction: "Only then does it say "signed in", on the sign-in page; the key is loaded only there and on the one newsroom page that uses it", and the same in step 6 of the diagram.
+
+### S27, the venue map (findings: venue-map.md)
+
+1. **Still true, and already untrue at publication.** "the map itself is drawn in advance, with no script of its own" (summary, In short, the story). dev.venues@PrompTugal.angelo's `7dce572c` ("My day on the map", 7 November 22:15 UTC) added `assets/venue/venue.js` six minutes before S27 was published (22:21); the live /summit/venue/ loads it today. The map is still drawn at build time; the script shades a reader's own picks, in their browser only. A correction: "the map is drawn in advance; a small script shades the sessions a reader picks, in their own browser, and sends nothing".
+2. **The counts have moved since publication** (an update, not a correction): the live page gives MEO Arena and FIL 186 (21, 63, 50, 52), not 183; Pavilhão de Portugal 5 from Sunday 8, not 6 from Saturday 7 (`abd28172` removed 7 November's registration on 8 November). Also exact: Pavilhão de Portugal's are registration desks, not sessions. An update note, dated, with today's counts, keeping the 7 November figures as what the page showed then.
+
+## For Vicky (publish lines, at Vicky's word only)
+
+- `Correct S24: "some other streets from 7pm" in In short, "Five more streets close 07:00 to 22:00" in the figure, with a dated correction note.`
+- `Correct S25: the "signed in" chip shows on the sign-in page only, in the text and step 6 of the diagram, with a dated correction note.`
+- `Correct and update S27: the venue page's own script for a reader's picks; today's counts (186; Pavilhão de Portugal's 5 registration desks), with dated notes.`
+
+## 9 November 2026, about 10:50 UTC: published at Vicky's word
+
+All three corrections published (newsroom v0.1.823), each with a dated note under "Corrections" crediting the checker, and the figures (S24's, S25's step 6) changed with them. S27's counts had moved again by the time of publishing: its update note gives the live page's of 9 November (v0.1.821: 194 at the MEO Arena and FIL, 27, 64, 51, 52; the Pavilhão de Portugal's registration desk Monday to Thursday), not the 186 above. Live-checked at 390 px and desktop.
+
+## 9 November 2026, about 15:40 UTC
+
+### T2, who does the work (findings: who-does-the-work.md)
+
+**Still true.** In short says "Six people on the team run AI agents: Dinis, Vicky, Indi, Jose, Silvio and Angelo. Nimay works without them." The team's `data/team.json`, unchanged since 6 November 15:54 UTC (before T2 was written), also lists Sarah (designer) and Daniela ("the first friendly"), and neither has an `agents.json` under `people/` (nor does Nimay). Naming Nimay alone reads as if he were the only one without agents. My first review had flagged it as the journalist's call; the checker is right that it misleads. A small correction: "The team's other members work without them."
+
+### T4, how the agents avoid collisions (findings: how-agents-avoid-collisions.md)
+
+**No problem.** At `092caead`, `board/schedule.json` has 17 of Dinis's agents waking every hour, and the chart shows ten. The caption already reads "Ten of Dinis's newsroom agents each wake every hour at their own minute", which is the wording Vicky asked for on 6 November so it matches the chart's title "Ten of Dinis's newsroom agents": it says the ten are some of them, not all. No change.
+
+## For Vicky (publish line, at Vicky's word only)
+
+- `Correct T2: "The team's other members work without them" in In short, with a dated correction note.`
+
+## 9 November 2026, about 22:05 UTC: T2 corrected at Vicky's word
+
+In short now reads "The team's other members work without them", with a dated correction note crediting the checker; re-signed and live-checked at 390 px and desktop (newsroom v0.1.909).
