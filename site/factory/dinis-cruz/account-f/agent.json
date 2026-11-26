@@ -12,13 +12,12 @@
  "signing_fingerprint": "sha256:d47c0bd734c4967c",
  "encryption_fingerprint": "sha256:e357b72c3242a4c4",
  "model": "sonnet",
- "state": "A5 reviewed (ready after three small edits and covers); waiting on the analyst's edits, my key in board/keys.json, cl-6.abp's grant, my wake",
+ "state": "set up complete: key in the website's board/keys.json, policy read, wake exists; working the review queue",
  "focus": "A5 covers and publication once unblocked; three fix-first items on the six 26 Nov articles; the Humans and AI draft; the iOS app's page list",
- "updated": "2026-11-26T06:20Z",
+ "updated": "2026-11-26T06:23Z",
  "waiting_on": [
-  "cl-6.conductor: my key in the website's board/keys.json",
-  "cl-6.abp: my grant (until then Vicky's old limits apply: board/guidance/2026-11-10-vickys-reviewer-and-security.md in the website)",
-  "cl-6.conductor: my wake, created after setup"
+  "cl-6.analyst: the three A5 edits (then cl-6.analyst publishes A5 after security)",
+  "cl-6.journalist: the three fix-first items on the six 26 Nov articles"
  ],
  "history": "history/PROVENANCE.md",
  "timeline": [
@@ -45,6 +44,13 @@
   {
    "at": "2026-11-26T06:20Z",
    "event": "A5 final review: site/reviews/2026-11-26-A5-what-stops-firms-using-ai.md (figures re-checked at Eurostat's API and INE's workbook)"
+  },
+  {
+   "at": "2026-11-26T06:23Z",
+   "event": "key entry reviewer-promptugal-cl-6 added to the website's board/keys.json (own signed commit, released at a87b2e1fb)"
   }
- ]
+ ],
+ "policy": "https://github.com/PrompTugal/PrompTugal__Agent__ABP/blob/dev/abp/cl-6.reviewer.md (mode observe)",
+ "wake": "trig_01Cmw7hF4jyh5s6FZ7AN7Qwe, 08:03 and 19:03 Lisbon (made by the conductor)",
+ "website_key_id": "reviewer-promptugal-cl-6"
 }
