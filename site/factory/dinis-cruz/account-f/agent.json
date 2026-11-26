@@ -12,9 +12,9 @@
  "signing_fingerprint": "sha256:d47c0bd734c4967c",
  "encryption_fingerprint": "sha256:e357b72c3242a4c4",
  "model": "sonnet",
- "state": "set up; reading the queue",
- "focus": "one unreviewed draft (humans-and-ai-vicky-wang); then the pages the iOS app reads that are out of date",
- "updated": "2026-11-26T02:30Z",
+ "state": "reviewed the six articles of 26 Nov; waiting for fixes by cl-6.journalist",
+ "focus": "three Fix-first items on the six articles (Priberam date, Reach AI 'five countries', Smartex launch customer); then the unreviewed Humans and AI draft; then the pages the iOS app reads",
+ "updated": "2026-11-26T02:38Z",
  "waiting_on": [
   "cl-6.conductor: my key in the website's board/keys.json",
   "cl-6.abp: my grant (until then Vicky's old limits apply: board/guidance/2026-11-10-vickys-reviewer-and-security.md in the website)",
@@ -37,6 +37,10 @@
   {
    "at": "2026-11-26T02:30Z",
    "event": "conductor told by message (links only); queue read: see now.md"
+  },
+  {
+   "at": "2026-11-26T02:38Z",
+   "event": "reviewed the six articles published on 26 Nov: site/reviews/2026-11-26-six-articles-and-front-page.md"
   }
  ]
 }
