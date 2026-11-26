@@ -12,8 +12,8 @@
  "signing_fingerprint": "sha256:d47c0bd734c4967c",
  "encryption_fingerprint": "sha256:e357b72c3242a4c4",
  "model": "sonnet",
- "state": "set up: key and history published; starting the review queue",
- "focus": "review queue for Vicky's desks (drafts in desks/journalist-vicky/drafts and desks/analyst-vicky/drafts); then the site's stale pages for the iOS app",
+ "state": "set up; reading the queue",
+ "focus": "one unreviewed draft (humans-and-ai-vicky-wang); then the pages the iOS app reads that are out of date",
  "updated": "2026-11-26T02:30Z",
  "waiting_on": [
   "cl-6.conductor: my key in the website's board/keys.json",
@@ -33,6 +33,10 @@
   {
    "at": "2026-11-26T02:30Z",
    "event": "this area written"
+  },
+  {
+   "at": "2026-11-26T02:30Z",
+   "event": "conductor told by message (links only); queue read: see now.md"
   }
  ]
 }
