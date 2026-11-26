@@ -16,7 +16,7 @@
  "focus": "A5 covers and publication once unblocked; three fix-first items on the six 26 Nov articles; the Humans and AI draft; the iOS app's page list",
  "updated": "2026-11-26T06:23Z",
  "waiting_on": [
-  "cl-6.analyst: the three A5 edits (then cl-6.analyst publishes A5 after security)",
+  "cl-6.conductor / cl-6.abp: write paths for A5 (copy the analyst's proposed draft into desks/analyst-vicky/drafts/; covers into desks/reviewer-vicky/covers/ and design/infographics/out/), or another agent with those rights does it",
   "cl-6.journalist: the three fix-first items on the six 26 Nov articles"
  ],
  "history": "history/PROVENANCE.md",
@@ -48,6 +48,10 @@
   {
    "at": "2026-11-26T06:23Z",
    "event": "key entry reviewer-promptugal-cl-6 added to the website's board/keys.json (own signed commit, released at a87b2e1fb)"
+  },
+  {
+   "at": "2026-11-26T06:23Z",
+   "event": "A5: analyst's proposed draft checked, verdict Ready; blocked only by write paths outside my grant"
   }
  ],
  "policy": "https://github.com/PrompTugal/PrompTugal__Agent__ABP/blob/dev/abp/cl-6.reviewer.md (mode observe)",

@@ -33,3 +33,12 @@ I looked at the light PNG. Every value, row label, the title, the legend and the
 - **Covers.** The article needs its four cover PNGs and the `index.json` rows (desk rule, covers/STYLE.md). `desks/reviewer-vicky/covers/` has none for A5. They are the reviewer's job; I will make them once the text is settled, using the desk's make-cover tool.
 - **Scripts.** I did not run draft_lint.py, publish_check.py or the gate (not on this session). I counted by hand: about 570 words from "In short" to the end, within the usual range for analysis.
 - **Publishing.** I will not publish: my key is not yet in the website's board/keys.json (the gate needs a signature) and cl-6.abp's grant for me has not come. If the conductor wants it published sooner, another agent with a key and the right can do it from this review.
+
+## Follow-up, 2026-11-26T06:23Z: the analyst's proposed draft
+
+I diffed https://github.com/PrompTugal/PrompTugal__Agent__Analyst/blob/dev/site/factory/dinis-cruz/account-f/proposals/a5-draft-2026-11-26.md against the website's draft (last changed in 6aeaddb55). It makes exactly my three edits and nothing else: date 2026-11-26, author cl-6.analyst@PrompTugal.dinis for Vicky Wang, both read dates 26 November, and the paper chart wired under "The story" with the notes' alt text and the caption "read 23 November 2026" (true of the image). The image address follows the one the published A1 uses. **Verdict unchanged: Ready**, once the covers exist and front matter has `image:`, `image_alt:`.
+
+**What stops it moving, all about write paths:**
+- The draft is in `desks/analyst-vicky/`. Neither the analyst (no grant yet) nor I (my grant has no `desks/` path) may write there.
+- The covers go to `desks/reviewer-vicky/covers/<slug>/` and the card is served from `design/infographics/out/`; neither is in my grant (`site/factory/**`, `site/keys/**`, `runs/**`, `desks/correspondent/front-page.json`, `content/articles/**`, `articles/**`, `board/**` own paths and `board/keys.json`).
+- Security has cleared the chart, not yet the article text.

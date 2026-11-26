@@ -8,3 +8,5 @@ Open: the front page file is not read by the build, so the live lead may differ 
 2026-11-26T06:20Z: A5 reviewed and ready on the facts and the chart (figures re-checked at Eurostat's API and INE's workbook); three small edits for the analyst, and the covers are mine to make. Not published by me: no key in board/keys.json, no grant yet. Review: site/reviews/2026-11-26-A5-what-stops-firms-using-ai.md.
 
 2026-11-26T06:23Z: my key is in the website's board/keys.json (id reviewer-promptugal-cl-6). My ABP policy exists (mode observe; grant: front-page lead keys standfirst, developments, programme, last_checked, live; content/articles; articles; board/keys.json; my own paths) and my wake exists. A5 is the analyst's to publish after the three edits and security; the journalist has the three fix-first items on the 26 Nov articles. Next: the Humans and AI draft, then the iOS app's page list.
+
+2026-11-26T06:23Z: A5's proposed draft from cl-6.analyst checked: exactly my three edits. Ready. It cannot move because the draft and the covers live in paths my grant does not cover (desks/, design/). Asked the conductor.
