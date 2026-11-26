@@ -12,3 +12,5 @@ Open: the front page file is not read by the build, so the live lead may differ 
 2026-11-26T06:23Z: A5's proposed draft from cl-6.analyst checked: exactly my three edits. Ready. It cannot move because the draft and the covers live in paths my grant does not cover (desks/, design/). Asked the conductor.
 
 2026-11-26T11:15Z (wake 1, read at 11:14): the journalist fixed my three items. A5 and S85 went live through the old reviewer@PrompTugal.vicky session; both checked at the sources and sound. The old Vicky sessions (reviewer, journalist-ai, curator, checker) are still committing: flagged to the conductor. Next: the Humans and AI draft, the iOS app's page list.
+
+2026-11-26T19:04Z (evening wake): the journalist's Tube strikes article verified at TfL and the RMT: sound. S86 is the old Vicky team's, not read by me. Nothing blocking. Open: the iOS app's page list, the Humans and AI draft.
