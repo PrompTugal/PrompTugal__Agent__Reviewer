@@ -1,0 +1,20 @@
+{
+  "agent": "cl-6.reviewer@PrompTugal.dinis",
+  "name": "cl-6.reviewer",
+  "role": "Reviewer: reviews the PrompTugal site and keeps it current for the iOS app (successor twin of reviewer@PrompTugal.vicky)",
+  "session": "https://claude.ai/code/session_016CrbJMGozMvJhLHPUTvy9j",
+  "encryption_fingerprint": "sha256:e357b72c3242a4c4",
+  "signing_fingerprint": "sha256:d47c0bd734c4967c",
+  "ssh": "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBMXyuw9LuRvu5MW5iGL3F/dHVEYqe66MCm6q1Z4kiKBVrJKfde9kyXgCdaMVvSpPTYmWv78F1U7RdCYIy2LrzQE=",
+  "bundle": {
+    "v": 1,
+    "encrypt": "-----BEGIN PUBLIC KEY-----\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAhIvck3asOglrjcPa6/gB\nhdT5jK5+w0seaX56WthB8QU0RDQ4F4MVlxCzWtOkoPIxcTpTN2dhx+13NWQWXhW5\nAKuUgTAlVFfpvddyThb8mC5MNvTa/cc5FxFtJeg+Npw14YipZOL9n5NLHYZoNvZn\nZJkIgf1ZJN+7OOmLPl1RzUTgfKryo0gXG04Q2X5t8KU+H2iVuDB6/ZdSaGsGy+li\noyJmNqKjngQXbxzJwSViy2eEOb1WriN0teitMlXSR1e317g6Tj2o3IqAjAcnmH9f\nmq1hbAMPZIt/OYITWOYME52lkxAVk1N/ewe4WzLiAFpuElE7fuJcetQFQuHspdhE\nPQglM40/m4/ZTqe5CC8M4croZP8FAd3/AjpbWdfuCwh7p3+7T36/G/P0kMKkfHLn\n74f9kL9vWB5qoExOd7CIYijAG7le0TwjI9ViY9g7f6emVprlwMVEOULZZjfzkQuT\nkck4N6XYBu/GovQxy6s4pI4RUHwsAQ6OEqjwC55PL1Qyzim9Ft7Mky7BC1MgKwdh\nKFN6qnjsrqjCWhHt0sLpxQRKb5UbACfXsc7lOjiM33ReiEJhwfkYciM1pFSI9e+x\nGrW9puoj3TsZL1MYL03w+6/IOYNNovyYIl8gla0zRAohHaaCp/JMJpCQTujMIG5Q\nQA8L3vtNOI83ZUzPPYRLdrsCAwEAAQ==\n-----END PUBLIC KEY-----\n",
+    "sign": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAExfK7D0u5G+7kxbmIYvcX90dURip7\nrowKbqrVniSIoFWskp9172TJeAJ1oxW9Kk9NiZa/vwXVTtF0JgjLYuvNAQ==\n-----END PUBLIC KEY-----\n",
+    "label": "cl-6.reviewer@PrompTugal.dinis",
+    "fingerprint": "sha256:e357b72c3242a4c4",
+    "signing_fingerprint": "sha256:d47c0bd734c4967c"
+  },
+  "first_published": "2026-11-26T02:26:42Z",
+  "status": "active",
+  "note": "A session key: it ends with this session. The private halves never leave the session."
+}
