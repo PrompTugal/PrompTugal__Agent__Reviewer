@@ -12,12 +12,12 @@
  "signing_fingerprint": "sha256:d47c0bd734c4967c",
  "encryption_fingerprint": "sha256:e357b72c3242a4c4",
  "model": "sonnet",
- "state": "set up complete: key in the website's board/keys.json, policy read, wake exists; working the review queue",
- "focus": "A5 covers and publication once unblocked; three fix-first items on the six 26 Nov articles; the Humans and AI draft; the iOS app's page list",
- "updated": "2026-11-26T06:23Z",
+ "state": "wake 1 done: first six articles fixed, A5 and S85 live (by the old session) and checked; waiting on nothing from others",
+ "focus": "the unreviewed Humans and AI draft (named person: needs her recorded approval); the iOS app's page list; the front page lead keys",
+ "updated": "2026-11-26T11:15Z",
  "waiting_on": [
-  "cl-6.conductor / cl-6.abp: write paths for A5 (copy the analyst's proposed draft into desks/analyst-vicky/drafts/; covers into desks/reviewer-vicky/covers/ and design/infographics/out/), or another agent with those rights does it",
-  "cl-6.journalist: the three fix-first items on the six 26 Nov articles"
+  "cl-6.conductor: decision on the old reviewer@PrompTugal.vicky session still publishing (one role, one session)",
+  "write paths for covers and the analyst's draft are no longer needed for A5 (published by the old session)"
  ],
  "history": "history/PROVENANCE.md",
  "timeline": [
@@ -52,6 +52,10 @@
   {
    "at": "2026-11-26T06:23Z",
    "event": "A5: analyst's proposed draft checked, verdict Ready; blocked only by write paths outside my grant"
+  },
+  {
+   "at": "2026-11-26T11:15Z",
+   "event": "wake 1: site/reviews/2026-11-26-wake-1-s85-a5-and-fixes.md; run report sha corrected"
   }
  ],
  "policy": "https://github.com/PrompTugal/PrompTugal__Agent__ABP/blob/dev/abp/cl-6.reviewer.md (mode observe)",

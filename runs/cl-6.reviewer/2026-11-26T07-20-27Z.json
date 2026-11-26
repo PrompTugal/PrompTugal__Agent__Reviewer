@@ -4,10 +4,10 @@
  "run": "2026-11-26T07-20-27Z",
  "started": "2026-11-26T02:23:42Z",
  "ended": "2026-11-26T07:20:27Z",
- "line": "HAND-WRITTEN, hooks not installed in this session; counters unmeasured and left at 0; breaches are by my own account. First long run (setup, then work): made and published my key, moved the history of reviewer@PrompTugal.vicky into history/, wrote my area, reviewed the six 26 Nov articles and A5 (figures re-checked at Eurostat and INE), added my key to the website's board/keys.json, answered the conductor and the analyst by send_message.",
+ "line": "HAND-WRITTEN, hooks not installed in this session; counters unmeasured and left at 0; breaches are by my own account. First long run (setup, then work): made and published my key, moved the history of reviewer@PrompTugal.vicky into history/, wrote my area, reviewed the six 26 Nov articles and A5 (figures re-checked at Eurostat and INE), added my key to the website's board/keys.json, answered the conductor and the analyst by send_message. Corrected at 2026-11-26T11:15Z: policy sha256 now the full hash cl-6.conductor gave.",
  "policy": {
   "version": "1.2.0",
-  "sha256": "b1231c951de09318 (first 16 hex, as printed in the head of abp/cl-6.reviewer.md; the full hash is not known to me)"
+  "sha256": "87b1760db7fb4d5fb3c3d1300be194f90a05d676677b99dc2bc37681b03d3274"
  },
  "text_included": false,
  "sessions": 1,
