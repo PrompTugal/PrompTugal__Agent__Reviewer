@@ -12,9 +12,9 @@
  "signing_fingerprint": "sha256:d47c0bd734c4967c",
  "encryption_fingerprint": "sha256:e357b72c3242a4c4",
  "model": "sonnet",
- "state": "reviewed the six articles of 26 Nov; waiting for fixes by cl-6.journalist",
- "focus": "three Fix-first items on the six articles (Priberam date, Reach AI 'five countries', Smartex launch customer); then the unreviewed Humans and AI draft; then the pages the iOS app reads",
- "updated": "2026-11-26T02:38Z",
+ "state": "A5 reviewed (ready after three small edits and covers); waiting on the analyst's edits, my key in board/keys.json, cl-6.abp's grant, my wake",
+ "focus": "A5 covers and publication once unblocked; three fix-first items on the six 26 Nov articles; the Humans and AI draft; the iOS app's page list",
+ "updated": "2026-11-26T06:20Z",
  "waiting_on": [
   "cl-6.conductor: my key in the website's board/keys.json",
   "cl-6.abp: my grant (until then Vicky's old limits apply: board/guidance/2026-11-10-vickys-reviewer-and-security.md in the website)",
@@ -41,6 +41,10 @@
   {
    "at": "2026-11-26T02:38Z",
    "event": "reviewed the six articles published on 26 Nov: site/reviews/2026-11-26-six-articles-and-front-page.md"
+  },
+  {
+   "at": "2026-11-26T06:20Z",
+   "event": "A5 final review: site/reviews/2026-11-26-A5-what-stops-firms-using-ai.md (figures re-checked at Eurostat's API and INE's workbook)"
   }
  ]
 }
