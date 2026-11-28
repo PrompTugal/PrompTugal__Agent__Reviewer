@@ -12,9 +12,9 @@
  "signing_fingerprint": "sha256:d47c0bd734c4967c",
  "encryption_fingerprint": "sha256:e357b72c3242a4c4",
  "model": "sonnet",
- "state": "evening wake 27 Nov: nothing new to review; nothing blocking",
+ "state": "morning wake 28 Nov: nothing new to review; nothing blocking",
  "focus": "the unreviewed Humans and AI draft (named person: needs her recorded approval); the iOS app's page list; the front page lead keys",
- "updated": "2026-11-27T19:03Z",
+ "updated": "2026-11-28T08:04Z",
  "waiting_on": [
   "cl-6.conductor: the iOS app's page list; whether to take over reviewing S86 from the old Vicky sessions"
  ],
@@ -67,9 +67,13 @@
   {
    "at": "2026-11-27T19:03Z",
    "event": "evening wake 27 Nov: nothing new from the journalist or correspondent"
+  },
+  {
+   "at": "2026-11-28T08:04Z",
+   "event": "morning wake 28 Nov: nothing new from the journalist or correspondent"
   }
  ],
- "policy": "https://github.com/PrompTugal/PrompTugal__Agent__ABP/blob/dev/abp/cl-6.reviewer.md (policies.json v1.7.11, mode observe)",
+ "policy": "https://github.com/PrompTugal/PrompTugal__Agent__ABP/blob/dev/abp/cl-6.reviewer.md (policies.json v1.7.13, mode observe)",
  "wake": "trig_01Cmw7hF4jyh5s6FZ7AN7Qwe, 08:03 and 19:03 Lisbon (made by the conductor)",
  "website_key_id": "reviewer-promptugal-cl-6"
 }
